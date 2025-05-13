@@ -1,12 +1,11 @@
-# Gamepad Automation Script
+# Rocket League Drop Opener
 
-This script automates the pressing of gamepad buttons using the `vgamepad` library. It simulates gamepad button presses for a specific action, like opening items in a game. This can be useful for automating repetitive tasks in games or other applications that require gamepad input.
+This script automates the opening of drops using the `vgamepad` library to simulate gamepad button presses.
 
 ## Features
-- Simulates pressing and releasing the "A" button on a controller.
-- Controls the D-pad to navigate between options.
-- Automates item-opening sequences with configurable timings.
-- Can be customized for different numbers of items and waiting times.
+- Automates process of opening drops
+- Controls the D-pad to navigate between options
+- Allows user to select how many items to open
 
 ## Installation
 
