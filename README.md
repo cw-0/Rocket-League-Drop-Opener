@@ -23,7 +23,7 @@ This script automates the opening of drops using the `vgamepad` library to simul
     ```bash
     pip install -r requirements.txt
 
-3. **Connect Your Gamepad**:
+3. **Connect Your Gamepad (Optional|May Be Needed on Some Systems)**:
     Make sure that your gamepad is connected to your Windows machine and is recognized by the system.
 
 ## Usage
