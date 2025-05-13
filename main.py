@@ -77,7 +77,7 @@ def main():
         print("\n\n")
 
         items_opened+=1
-        print(f"Case {items_opened} of {items_total} opened")
+        print(f"Drop {items_opened} of {items_total} opened")
         items_left-=1
 
         if items_left > 0:

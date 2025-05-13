@@ -15,7 +15,6 @@ This script automates the opening of drops using the `vgamepad` library to simul
    ```bash
    git clone https://github.com/cw-0/Rocket-League-Drop-Opener
 
-
 2. **Install Dependencies**:
     Ensure you have Python 3.x installed. If not, you can download it from the official Python website: https://www.python.org/downloads/.
 
